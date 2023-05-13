@@ -2,7 +2,7 @@
 title: Classifying Images Country of Origin using Machine Learning
 date: 2022-12-15 22:53:24.000000000 -07:00
 layout: post
-post-image: /assets/images/campaign_finance.jpg
+post-image: /assets/images/img_classification/classification.jpg
 description: Analysis of Modeling Techniques for Country Image Classification
 keywords: machine learning, data visualization, image classifcation, computer vision
 tags:
