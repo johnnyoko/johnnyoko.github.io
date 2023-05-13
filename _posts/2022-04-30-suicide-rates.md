@@ -28,7 +28,7 @@ Although I expected to see a larger increase over time and spikes during times o
 
 ![age](/assets/images/suicide/age_breakdown.png)
 
-The pie chart presents the age groups that are most susceptible to suicide. According to the chart, elderly and middle-aged individuals account for the largest portion of suicides, making them the most vulnerable. This finding was intriguing since I expected young adults to be more affected due to the disproportionate media coverage of their suicides. Moreover, the chart reveals that young adults and seniors have similar rates of suicide. What struck me the most was the high number of children under 14 years old who have taken their own lives, with around 2000 cases recorded over the last two decades.
+The pie chart presents the age groups that are most susceptible to suicide. According to the chart, elderly and middle-aged individuals account for the largest portion of suicides, making them the most vulnerable. This finding was intriguing since I expected young adults to be more affected due to the disproportionate media coverage of their suicides. Moreover, the chart reveals that 25-44 year olds and 65-74 year olds have similar rates of suicide. What struck me the most was the high number of children under 14 years old who have taken their own lives, with around 2000 cases recorded over the last two decades.
 
 
 ![method](/assets/images/suicide/method.png)
