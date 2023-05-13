@@ -1,6 +1,6 @@
 ---
 title: A Statistical Analysis of Mental Health in the U.S.
-date: 2022-04-29 20:23:54.000000000 -07:00
+date: 2022-04-29 10:23:20.000000000 -07:00
 layout: post
 post-image: /assets/images/suicide/suicide.jpg
 description: Visualizing Sucidie Rates
