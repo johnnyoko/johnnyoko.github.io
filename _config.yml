@@ -1,0 +1,105 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: 'https://johnnyoko.com'
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl:
+
+# Title of the Site
+title: Johnny Okoniewski
+# Description of the Site
+description: Full Stack Data Scientist
+# URL of Image of the Site
+site-image: /assets/images/meta.jpg
+# Keywords of the Site
+site-keywords: johnny okoniewski, john okoniewski, okoniewski, data science, artificial intelligence, machine learning, consultant
+# URL for the Image of custom Favicon
+favicon-url: /assets/images/art.png
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+# original -> heroimage: /assets/images/pexels-photo-220444.webp
+heroimage: /assets/images/home.jpg
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: johnnyoko7@gmail.com
+facebook_username:
+twitter_username:
+instagram_username:
+linkedin_username:
+github_username:  johnnyoko
+youtube_channel_id:
+reddit_username:
+behance_username:
+dribbble_username:
+spotify_username:
+
+# Google Analytics
+google-analytics: G-Q37RERK4HT
+
+# Disqus
+disqus-shortname:
+
+# Name of the Author
+author-name: Johnny Okoniewski
+# URL for the Image of the Author
+author-image: /assets/images/my.jpg
+# 60 Words About the Author
+author-about: Full Stack Data Scientist
+# Longer description of the Author
+author-about-long: "Hi! I'm <strong>Johnny Okoniewski</strong>. I'm a full stack data scientist based in the Detroit, Michigan metropolitan area.<br /><br />
+
+I specialize in data science, data visualization, machine learning, artificial intelligence,  and occasionally write about my latest work on my <a href='/blog'>personal blog</a>.
+
+If you'd like to talk data, ask about one of my projects, hire me to consult on a project, or anything else, feel free to contact me."
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: /#about
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Excludes
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
