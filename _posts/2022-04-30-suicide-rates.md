@@ -2,7 +2,7 @@
 title: A Statistical Analysis of Mental Health in the U.S.
 date: 2022-04-30 20:23:54.000000000 -07:00
 layout: post
-post-image: /assets/images/campaign_finance.jpg
+post-image: /assets/images/suicide/suicide.jpg
 description: Visualizing Sucidie Rates
 keywords: data visualization, sucidie rates, mental health
 tags:
