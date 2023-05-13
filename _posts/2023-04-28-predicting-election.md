@@ -16,7 +16,7 @@ permalink: "/2023/04/28/campaign_finance_predictions/"
 ---
 The purpose of this [project](https://github.com/johnnyoko/campaign_finance_donation_optimization.git) is to address candidates who are struggling to fund their campaigns, even if they have strong beliefs and policies that align with voters' interests by providing a platform that helps users to make informed decisions when voting for candidates. Specifically, the project aims to highlight candidates who are struggling to fund their campaigns and would benefit the most from donations. By doing so, the project seeks to level the playing field and ensure that candidates with strong beliefs and policies have a better chance of winning, regardless of their financial resources.
 
-I helped develop a platform that used a machine learning model to predict the winners of the 2022 House of Represenatives election only using campaign finance data in conjunction with Thao Nguyen, Vivian Pavlica, Ben Ramsey, and Gregory Zavalnitskiy.
+I helped develop a [platform](https://pavlicag-campaign-finance-donation-optimiz-streamlitmain-iuzsxf.streamlit.app/) that used a machine learning model to predict the winners of the 2022 House of Represenatives election only using campaign finance data in conjunction with Thao Nguyen, Vivian Pavlica, Ben Ramsey, and Gregory Zavalnitskiy.
 
 ![flowchart](/assets/images/flowchart.jpg)
 
