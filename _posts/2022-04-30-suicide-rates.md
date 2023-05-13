@@ -42,7 +42,7 @@ After conducting a further analysis of the data on non-fatal intentional self-ha
 The findings from this project can inform suicide prevention efforts and target interventions to specific age and gender groups. Additionally, the data can help focus funding to groups that are at the highest risk to save the greatest number of lives possible. Further research can be conducted, taking into account race and income, to identify niche groups that are even more affected. The importance of this research cannot be overstated, as suicide remains a major public health issue that affects individuals and communities across the US. I am glad to have conducted this project as it highlighted how much more involved suicide is than previously thought. Suicide is a personal issue for me, as I have dealt with it in my own life and am constantly reminded of the growing mental health crisis in society today. I hope to be a small part of addressing this issue and figuring out how to help the most people possible. This project has taught me how data can be used to solve not only industry problems but societal and sustainability issues as well.
 
 References: 
-https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=ChartsProfiles.SuicideProfileDashboard
-https://www.cdc.gov/nchs/products/databriefs/db464.htm
+* https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=ChartsProfiles.SuicideProfileDashboard
+* https://www.cdc.gov/nchs/products/databriefs/db464.htm
 
 ---
