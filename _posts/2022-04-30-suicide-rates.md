@@ -1,6 +1,6 @@
 ---
 title: A Statistical Analysis of Mental Health in the U.S.
-date: 2022-04-30 20:23:54.000000000 -07:00
+date: 2022-04-29 20:23:54.000000000 -07:00
 layout: post
 post-image: /assets/images/suicide/suicide.jpg
 description: Visualizing Sucidie Rates
@@ -11,7 +11,7 @@ author:
   display_name: Johnny Okoniewski
   first_name: Johnny
   last_name: Okoniewski
-permalink: "/2022/04/30/mental_health_analysis/"
+permalink: "/2022/04/29/mental_health_analysis/"
 
 ---
 
