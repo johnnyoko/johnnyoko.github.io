@@ -44,6 +44,12 @@ Undergraduate Advisor: [Billy Massey](https://www.egr.msu.edu/people/profile/mas
 
 # Professional Experience
 
+### Analyst
+
+**[FAO JEWELERS](https://faojewelers.com/)** - Brighton, MI - August 2019 to April 2023
+
+Utilized Python and Excel to produce reports for management at a small jewelry business. Developed automated scripts to extract and analyze sales, inventory, and customer data, ensuring accurate and reliable information. Generated visualizations that provided valuable insights on sales performance and inventory levels, enabling data-driven decision-making for improved business outcomes.
+
 ### Undergraduate Teaching Assistant
 
 **[Michigan State University](https://math.msu.edu/directory/personalpage?id=111114298)** - East Lansing, MI - August 2021 to May 2023
