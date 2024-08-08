@@ -44,11 +44,19 @@ Undergraduate Advisor: [Billy Massey](https://www.egr.msu.edu/people/profile/mas
 
 # Professional Experience
 
-### Analyst
+### Financial Engineering Consultant
 
-**[FAO JEWELERS](https://faojewelers.com/)** - Brighton, MI - August 2019 to April 2023
+**[INTERCONTINENTAL EXCHANGE](https://www.ice.com/index)** - Jacksonville, FL - April 2024 to Current
 
-Utilized Python and Excel to produce reports for management at a small jewelry business. Developed automated scripts to extract and analyze sales, inventory, and customer data, ensuring accurate and reliable information. Generated visualizations that provided valuable insights on sales performance and inventory levels, enabling data-driven decision-making for improved business outcomes.
+Calibrated prepayment and credit models to analyze market trends and assess risks in the mortgage industry.
+Utilized Python, SQL, and BASH to create, test, and automate predictive models, collaborated with Research and Development to refine financial tools, and customized models to meet specific client needs. Solved client model performance issues, contributed to updating legacy technology and documentation.
+
+### Associate Data Scientist
+
+**[Health Alliance Plan](https://hap.com/)** - Troy, MI - June to December 2023
+
+Programmed Python, SQL, Excel, PowerBI, and Alteryx to automate report generation and analyze KPIs, adhering to CI/CD principles for continuous improvement. Collaborated within a multidisciplinary Scrum team to identify instances of waste, utilizing Agile methodologies, resulting in a $13 million reduction in expenditure. Achieved $1 million above target of $12 million, showcasing adeptness in iterative analysis and improvement.
+
 
 ### Undergraduate Teaching Assistant
 
@@ -62,16 +70,24 @@ Conducted individual and group calculus instruction for approximately 60 student
 
 Independently conducted an analysis of dental data to identify key outcome indicators for a case study. Leveraged expertise in Python, R, and SQL to create advanced programs that extracted and analyzed data, and created visualizations using Tableau to effectively communicate findings. Successfully classified 7 key outcome indicators.
 
+
 ### Founder
 
 **A-Z Solutions** - Brighton, MI - May 2020 to August 2022
 
 Established a company that provided essential assistance to the local and surrounding communities during the initial outbreak of Covid-19. Leveraged my personal skills and expertise to guide my network of associates, enabling them to identify and solve real-world problems in a timely and effective manner. Contributed to the improvement of the economic vitality of the area by creating jobs and supporting a positive impact on the local community.
+
 ### Community-Engaged Designer
 
 **[Michigan State University](https://www.egr.msu.edu/people/profile/hinds)** - Cahutia, Costa Rica - May 2021
 
 Directed the spending of $10,000 and designed and implemented a technological infrastructure that enabled distanced learning. Collaborated with three other students to develop and deliver a hands-on solution that facilitated access to education for 16 marginalized individuals. Enabled greater access to education for individuals who may have otherwise been excluded from traditional learning environments, helping to build a more equitable and inclusive community.
+
+### Sales Representative
+
+**[FAO JEWELERS](https://faojewelers.com/)** - Brighton, MI - August 2019 to April 2023
+
+Interacted with customers to understand their preferences and needs and maintained working environment. Provided expertise in selecting jewelry pieces, highlighting features and benefits to meet their desires. Played a key role in driving sales growth by utilizing persuasive sales techniques to encourage purchases.
 
 # Research Experience
 ### Analysis of Modeling Techniques for Country Image Classification
